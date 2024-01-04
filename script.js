@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoded', function () {
+document.addEventListener('DOMContentLoaded', function () {
   personalizeContent();
 });
 
